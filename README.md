@@ -33,7 +33,8 @@ The model can classify the following 28 Arabic letters:
 ain, alef, beh, dad, dal, dhad, feh, ghain, hah, heh,
 jeem, kaf, khah, lam, meem, noon, qaf, reh, sad, seen,
 sheen, tah, teh, thal, theh, waw, yeh, zain
-## 📝 Notes
+
+# 📝 Notes
 Images are preprocessed to grayscale, 32x32, inverted, and normalized.
 
 The model was trained on a labeled dataset of handwritten Arabic characters.
