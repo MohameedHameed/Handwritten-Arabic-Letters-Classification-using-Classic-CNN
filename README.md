@@ -40,9 +40,6 @@ The model was trained on a labeled dataset of handwritten Arabic characters.
 
 # Handwritten Arabic Letters Classification using CNN
 
-This project classifies handwritten Arabic letters using a CNN model. It is trained on 28 Arabic characters and achieves 91.4% accuracy. The project uses TensorFlow, Keras for model training, and Flask to create an API for predicting letters from image input.
+This project classifies handwritten Arabic letters using a CNN model. It is trained on 28 Arabic characters and achieves 91.4% accuracy. The project uses TensorFlow, Keras for model training and Flask to create an API for predicting letters from image input.
 
 **Developed by Mohammed Hameed**
-
-نسخ
-تحرير
